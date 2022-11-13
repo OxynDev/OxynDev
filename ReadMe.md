@@ -3,7 +3,7 @@
 ```python
 class Yo:
     def __init__(self) -> None:
-        self.name = "Lucas" # My name sound like this 
+        self.Name = "Lucas" # My name sound like this 
         self.Age = 17
 
     def Dm(self) -> str:
