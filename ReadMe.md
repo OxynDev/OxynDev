@@ -1,3 +1,4 @@
+```python
 import httpx #
 
 class Yo:
@@ -54,4 +55,4 @@ class Shop:
             "Time": "Month"
         }
         # CHECK IT 👀
-        httpx.get("https://discord.gg/dVaDEEnF7u")
+        httpx.get("https://discord.gg/dVaDEEnF7u")```
