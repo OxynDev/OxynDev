@@ -54,6 +54,6 @@ class Shop:
         httpx.get("https://discord.gg/dVaDEEnF7u")
 ```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OxynDev&theme=tokyonight&show_icons=true&card_width=1000"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OxynDev&theme=tokyonight&show_icons=true&card_width=99999"> </p>
 
 ![image2](https://cdn.discordapp.com/attachments/998922127333920788/1041466645610246274/wave_2.svg)
