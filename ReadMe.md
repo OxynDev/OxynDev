@@ -5,8 +5,7 @@ class Yo:
         self.Age = 17
 
     def Dm(self) -> str:
-        print("Discord -> oxyn#3520")
-        return "👋"
+        print("👋 Discord -> oxyn#3520")
     
     def AboutMe(self):
         print('I go to mechanical school but love programming LoL')
@@ -43,6 +42,7 @@ class Dev:
 class Shop:
     def __init__(self) -> None:
         pass
+        
     def Proxy(self):
         'uHq / Privat / Cheap'
         {
