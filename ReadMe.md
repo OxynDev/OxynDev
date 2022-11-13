@@ -15,6 +15,7 @@ class Yo:
             'Func4ptcha Solver and Bypass',
             'Hc4ptcha Solver',
             'Tw1tch Gay 4m Accounts lol' + httpx.get("https://bit.ly/3hG1LE7"), # ScreenShot
+            'Kasada cum',
             'And more...'
         ]
 
