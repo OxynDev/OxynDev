@@ -54,6 +54,6 @@ class Shop:
         httpx.get("https://discord.gg/dVaDEEnF7u")
 ```
 
-<p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OxynDev&theme=tokyonight&show_icons=true) </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OxynDev&theme=tokyonight&show_icons=true"> </p>
 
 ![image2](https://cdn.discordapp.com/attachments/998922127333920788/1041466645610246274/wave_2.svg)
