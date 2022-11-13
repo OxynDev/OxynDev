@@ -23,9 +23,6 @@ class Yo:
         ]
 
 class Dev:
-    def __init__(self) -> None:
-        pass
-    
     def Code(self):
         dev = {
             'Python 👍': 'gay but still nice',
@@ -44,9 +41,6 @@ class Dev:
         return 'Fullstack'
 
 class Shop:
-    def __init__(self) -> None:
-        pass
-        
     def Proxy(self):
         'uHq / Privat / Cheap'
         {
