@@ -9,6 +9,7 @@ class Yo:
     
     def AboutMe(self):
         print('I go to mechanical school but love programming LoL')
+        print('I'm learning music / bits production in fl studio too cuz its cool')
 
     def Achievements(self):
         Yep = [
