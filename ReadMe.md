@@ -1,6 +1,4 @@
 ```python
-import httpx #
-
 class Yo:
     def __init__(self) -> None:
         self.name = "Lucas" # My name sound like this 
@@ -55,4 +53,4 @@ class Shop:
             "Time": "Month"
         }
         # CHECK IT 👀
-        httpx.get("https://discord.gg/dVaDEEnF7u")```
+        httpx.get("https://discord.gg/dVaDEEnF7u")
