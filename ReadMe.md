@@ -1,4 +1,4 @@
-![image1](https://cdn.discordapp.com/attachments/998922127333920788/1041467321413283871/wave_3.svg)
+![image1](https://raw.githubusercontent.com/OxynDev/OxynDev/main/wave%20(1).png)
 
 ```python
 class Yo:
@@ -56,4 +56,4 @@ class Shop:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OxynDev&theme=tokyonight&show_icons=true&card_width=1100"> </p>
 
-![image2](https://cdn.discordapp.com/attachments/998922127333920788/1041466645610246274/wave_2.svg)
+![image2](https://raw.githubusercontent.com/OxynDev/OxynDev/main/wave.png)
