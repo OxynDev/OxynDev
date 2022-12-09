@@ -1,5 +1,4 @@
 ![image1](https://raw.githubusercontent.com/OxynDev/OxynDev/main/wave%20(1).png)
-
 ```python
 class Yo:
     def __init__(self) -> None:
@@ -55,5 +54,4 @@ class Shop:
 ```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OxynDev&theme=tokyonight&show_icons=true&card_width=1100"> </p>
-
 ![image2](https://raw.githubusercontent.com/OxynDev/OxynDev/main/wave.png)
