@@ -37,21 +37,8 @@ class Dev:
             'Html 🤙': 'All kids and skids know this',
             'Css 😱': 'I love design'
         }
-        backend = ['Php', 'Flask', 'Express']
+        backend = ['Php', 'Flask', 'Express', React]
         return 'Fullstack'
-
-class Shop:
-    def Proxy(self):
-        'uHq / Privat / Cheap'
-        {
-            "Ip": 2000,
-            "Auth": "Ip",
-            "Threads": 150,
-            "Price": "5$",
-            "Time": "Month"
-        }
-        # CHECK IT 👀
-        httpx.get("https://discord.gg/dVaDEEnF7u")
 ```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OxynDev&theme=tokyonight&show_icons=true&card_width=1100"> </p>
