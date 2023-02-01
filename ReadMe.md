@@ -37,7 +37,7 @@ class Dev:
             'Html 🤙': 'All kids and skids know this',
             'Css 😱': 'I love design'
         }
-        backend = ['Php', 'Flask', 'Express', React]
+        backend = ['Php', 'Flask', 'Express', 'React']
         return 'Fullstack'
 ```
 
