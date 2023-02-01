@@ -27,6 +27,7 @@ class Dev:
             'Python 👍': 'gay but still nice',
             'Javascript 😏': 'reverse engineer',
             'C# 💀': 'who use this shit',
+            'Java 👱‍♂️': 'Gut Gut'
         } 
     
     def Web(self):
