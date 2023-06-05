@@ -3,10 +3,10 @@
 class Yo:
     def __init__(self) -> None:
         self.Name = "Lucas" # My name sound like this 
-        self.Age = 17
+        self.Age = 18
 
     def Dm(self) -> str:
-        print("👋 Discord -> oxyn#3520")
+        print("👋 Discord -> oxyn#6372")
     
     def AboutMe(self):
         print(r'🔧 I go to mechanical school but love programming LoL')
