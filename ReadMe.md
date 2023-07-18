@@ -5,15 +5,15 @@ class Yo:
         self.Name = "Lucas" # My name sound like this 
         self.Age = 18
 
-    def Dm(self) -> str:
+    def dm(self) -> str:
         print("👋 Discord -> oxyn#6372")
     
-    def AboutMe(self):
+    def about_me(self):
         print(r'🔧 I go to mechanical school but love programming LoL')
         print(r'🎧 I'm learning music / bits production in fl studio too cuz its cool')
 
-    def Achievements(self):
-        Yep = [
+    def achievements(self):
+        yep = [
             'Func4ptcha Solver and Bypass',
             'Hc4ptcha Solver',
             'Tw1tch Gay 4m Accounts lol' + httpx.get("https://bit.ly/3hG1LE7"), # ScreenShot
@@ -22,7 +22,7 @@ class Yo:
         ]
 
 class Dev:
-    def Code(self):
+    def code(self):
         dev = {
             'Python 👍': 'gay but still nice',
             'Javascript 😏': 'reverse engineer',
@@ -30,7 +30,7 @@ class Dev:
             'Java 👱‍♂️': 'Gut Gut'
         } 
     
-    def Web(self):
+    def web(self):
         dev = {
             'Php 🧐': 'I know basics',
             'Js 👌': 'Cool',
