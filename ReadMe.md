@@ -2,42 +2,30 @@
 ```python
 class Yo:
     def __init__(self) -> None:
-        self.Name = "Lucas" # My name sound like this 
-        self.Age = 18
+        self.name = "Lucas"
+        self.age = 18
 
     def dm(self) -> str:
         print("👋 Discord -> oxyn#6372")
-    
-    def about_me(self):
-        print(r'🔧 I go to mechanical school but love programming LoL')
-        print(r'🎧 I'm learning music / bits production in fl studio too cuz its cool')
 
-    def achievements(self):
-        yep = [
-            'Func4ptcha Solver and Bypass',
-            'Hc4ptcha Solver',
-            'Tw1tch Gay 4m Accounts lol' + httpx.get("https://bit.ly/3hG1LE7"), # ScreenShot
-            'Kasada cum',
+    def reverse_engineer(self):
+        achievements = [
+            'Funcaptcha <3',
+            'Ttv <3', # 'x.com/Dexerto/status/1574435298469093377'
+            'Kasada <3',
             'And more...'
         ]
 
 class Dev:
     def code(self):
-        dev = {
-            'Python 👍': 'gay but still nice',
-            'Javascript 😏': 'reverse engineer',
-            'C# 💀': 'who use this shit',
-            'Java 👱‍♂️': 'Gut Gut'
-        } 
+        dev = ['python','java','go']
     
     def web(self):
-        dev = {
-            'Php 🧐': 'I know basics',
-            'Js 👌': 'Cool',
-            'Html 🤙': 'All kids and skids know this',
-            'Css 😱': 'I love design'
-        }
-        backend = ['Php', 'Flask', 'Express', 'React']
+        # Ui designer
+
+        frontend = ['React']
+        backend = ['Flask', 'Express']
+
         return 'Fullstack'
 ```
 
