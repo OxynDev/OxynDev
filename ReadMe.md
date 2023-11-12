@@ -18,7 +18,7 @@ class Yo:
 
 class Dev:
     def code(self):
-        dev = ['python','java','go']
+        dev = ['python','java','go', 'js']
     
     def web(self):
         # Ui designer
