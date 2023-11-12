@@ -6,7 +6,7 @@ class Yo:
         self.age = 18
 
     def dm(self) -> str:
-        print("👋 Discord -> oxyn#6372")
+        print("👋 Discord -> oxyn.banned")
 
     def reverse_engineer(self):
         achievements = [
