@@ -1,10 +1,6 @@
 ![image1](https://raw.githubusercontent.com/OxynDev/OxynDev/main/wave%20(1).png)
 ```python
 class Yo:
-    def __init__(self) -> None:
-        self.name = "Lucas"
-        self.age = 18
-
     def dm(self) -> str:
         print("👋 Discord -> oxyn.banned")
 
