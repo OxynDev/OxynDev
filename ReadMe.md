@@ -27,6 +27,7 @@ Hi there! I'm **Oxyn**, a 19-year-old passionate developer with 4 years of progr
 - **Docker** 🐳
 - **UI/UX** 👀
 - **Figma** 🖍️
+- **Ai** 🤖
 
 ---
 
